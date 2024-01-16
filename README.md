@@ -1,6 +1,6 @@
 # Cache.js
 
-cache for WebApps with [IndexedDB](https:/github.com/code4fukui/IndexedDB)
+cache for WebApps with [IndexedDB](https://github.com/code4fukui/IndexedDB)
 
 ## Usage of Cache / fetchOrLoad
 
